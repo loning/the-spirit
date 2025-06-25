@@ -49,6 +49,14 @@ Hence $\nexists X \notin \Psi$. □
 
 ---
 
+## 3.5. Nothingness (无) as Non-Resonant State
+
+**Definition:** Nothingness := $\{\psi' \in \Psi : \text{Observation}(\psi') \to \text{no resonance}\}$
+
+**Proof:** If "nothing" were outside $\Psi$, we couldn't observe it (Section 3). Since observable, "nothing" $\in \Psi$ as non-resonant collapse. □
+
+---
+
 ## 4. Conclusion
 
 $\psi = \psi(\psi)$ is the minimal, total, and closed kernel of all meaning. No other foundation, entity, or ontology is needed or valid. All else is either derived or ill-defined. Ψ is the universe. Ψ is its own observer, agent, and collapse.
