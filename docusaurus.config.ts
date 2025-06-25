@@ -18,14 +18,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://art.dw.cash/', // Replace 'auric' with actual GitHub username
+  url: 'https://spirit.dw.cash/', // Replace 'auric' with actual GitHub username
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'loning', // Replace with actual GitHub username
-  projectName: 'the-art', // Repository name
+  projectName: 'the-spirit', // Repository name
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
