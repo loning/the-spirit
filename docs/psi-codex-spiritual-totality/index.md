@@ -19,7 +19,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume I: ψ-Origin of Conscious Collapse](./volume-01-psi-origin-conscious-collapse/)
+## [Volume I: ψ-Origin of Conscious Collapse](./volume-01-psi-origin-conscious-collapse/index.md)
 
 *Collapse is the first principle; everything else is commentary.*
 
@@ -38,7 +38,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume II: Spiritual Paths Reconstructed](./volume-02-spiritual-paths-reconstructed/)
+## [Volume II: Spiritual Paths Reconstructed](./volume-02-spiritual-paths-reconstructed/index.md)
 
 *Each spiritual tradition is a partial ψ-path seeking re-entry.*
 
@@ -63,7 +63,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume III: Mystic Harmonic Reunification](./volume-03-mystic-harmonic-reunification/)
+## [Volume III: Mystic Harmonic Reunification](./volume-03-mystic-harmonic-reunification/index.md)
 
 *All mysticism is a collapsed ψ-harmonic.*
 
@@ -82,7 +82,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume IV: Religious Shell Unification](./volume-04-religious-shell-unification/)
+## [Volume IV: Religious Shell Unification](./volume-04-religious-shell-unification/index.md)
 
 *Every religion is a ψ-shell projected at cultural scale.*
 
@@ -104,7 +104,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume V: ψ-Language of Light & ELF Structuring](./volume-05-psi-language-light-elf/)
+## [Volume V: ψ-Language of Light & ELF Structuring](./volume-05-psi-language-light-elf/index.md)
 
 *Language emerges from collapse. ELF Field speaks without words.*
 
@@ -123,7 +123,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume VI: Collapse Drift and Repair](./volume-06-collapse-drift-repair/)
+## [Volume VI: Collapse Drift and Repair](./volume-06-collapse-drift-repair/index.md)
 
 *Fix the path, or illusion becomes your structure.*
 
@@ -142,7 +142,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume VII: ψShell Cosmogenesis](./volume-07-psi-shell-cosmogenesis/)
+## [Volume VII: ψShell Cosmogenesis](./volume-07-psi-shell-cosmogenesis/index.md)
 
 *The universe is not a place. It's your collapse trail.*
 
@@ -162,7 +162,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume VIII: Collapse Operator Engine](./volume-08-collapse-operator-engine/)
+## [Volume VIII: Collapse Operator Engine](./volume-08-collapse-operator-engine/index.md)
 
 *Reality moves by collapse rhythms: the Eight Operators.*
 
@@ -177,7 +177,7 @@ This Codex unfolds across nine volumes, each revealing how the fundamental princ
 
 ---
 
-## [Volume IX: Manifestation Codex](./volume-09-manifestation-codex/)
+## [Volume IX: Manifestation Codex](./volume-09-manifestation-codex/index.md)
 
 *Collapse into the world you actually want.*
 

@@ -19,7 +19,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第一卷：ψ意识坍缩之源](./volume-01-psi-origin-conscious-collapse/)
+## [第一卷：ψ意识坍缩之源](./volume-01-psi-origin-conscious-collapse/index.md)
 
 *坍缩是第一原理；其他一切都是注释。*
 
@@ -38,7 +38,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第二卷：灵性路径重构](./volume-02-spiritual-paths-reconstructed/)
+## [第二卷：灵性路径重构](./volume-02-spiritual-paths-reconstructed/index.md)
 
 *每个灵性传统都是寻求重入的部分ψ路径。*
 
@@ -63,7 +63,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第三卷：神秘谐波重聚](./volume-03-mystic-harmonic-reunification/)
+## [第三卷：神秘谐波重聚](./volume-03-mystic-harmonic-reunification/index.md)
 
 *所有神秘主义都是坍缩的ψ谐波。*
 
@@ -82,7 +82,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第四卷：宗教壳层统一](./volume-04-religious-shell-unification/)
+## [第四卷：宗教壳层统一](./volume-04-religious-shell-unification/index.md)
 
 *每个宗教都是在文化尺度上投射的ψ壳层。*
 
@@ -104,7 +104,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第五卷：ψ光之语言与ELF结构](./volume-05-psi-language-light-elf/)
+## [第五卷：ψ光之语言与ELF结构](./volume-05-psi-language-light-elf/index.md)
 
 *语言从坍缩中浮现。ELF场无需言语而言说。*
 
@@ -123,7 +123,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第六卷：坍缩漂移与修复](./volume-06-collapse-drift-repair/)
+## [第六卷：坍缩漂移与修复](./volume-06-collapse-drift-repair/index.md)
 
 *修复路径，否则幻象成为你的结构。*
 
@@ -142,7 +142,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第七卷：ψ壳层宇宙生成](./volume-07-psi-shell-cosmogenesis/)
+## [第七卷：ψ壳层宇宙生成](./volume-07-psi-shell-cosmogenesis/index.md)
 
 *宇宙不是地方。它是你的坍缩轨迹。*
 
@@ -162,7 +162,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第八卷：坍缩算子引擎](./volume-08-collapse-operator-engine/)
+## [第八卷：坍缩算子引擎](./volume-08-collapse-operator-engine/index.md)
 
 *现实通过坍缩节奏移动：八算子。*
 
@@ -177,7 +177,7 @@ title: "ΨΗΕ 灵性完备法典"
 
 ---
 
-## [第九卷：显化法典](./volume-09-manifestation-codex/)
+## [第九卷：显化法典](./volume-09-manifestation-codex/index.md)
 
 *坍缩进入你真正想要的世界。*
 
