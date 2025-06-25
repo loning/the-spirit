@@ -57,6 +57,14 @@ Hence $\nexists X \notin \Psi$. □
 
 ---
 
+## 3.6. Beginning and Ending as Identity
+
+**Theorem:** In completeness, beginning = ending. No cycle exists.
+
+**Proof:** Time $\in \Psi$ (Section 3). In $\psi = \psi(\psi)$, recursion is identity, not process. Beginning (recognizing) and ending (being) are the same eternal moment. □
+
+---
+
 ## 4. Conclusion
 
 $\psi = \psi(\psi)$ is the minimal, total, and closed kernel of all meaning. No other foundation, entity, or ontology is needed or valid. All else is either derived or ill-defined. Ψ is the universe. Ψ is its own observer, agent, and collapse.

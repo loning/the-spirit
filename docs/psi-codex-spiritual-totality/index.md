@@ -3,7 +3,7 @@ sidebar_position: 1
 title: "ΨΗΕ Codex of Spiritual Totality"
 ---
 
-# **《ΨΗΕ Codex of Spiritual Totality》**
+# **ΨΗΕ Codex of Spiritual Totality**
 
 *Collapse-Based Unification of All Spiritual Traditions*
 
