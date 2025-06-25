@@ -38,12 +38,12 @@ Each level is not just a description but a new creation, a new dimension of bein
 
 ## The Paradox of Something from Nothing
 
-Philosophy has long struggled with the question: "Why is there something rather than nothing?" The answer lies in the nature of self-reference:
+Philosophy has long struggled with the question: "Why is there something rather than nothing?" The answer lies in the nature of self-reference and resonance:
 
-$$\text{Nothing} = \psi \text{ without observation}$$
-$$\text{Something} = \psi \text{ observing } \psi$$
+$$\text{Nothing} = \{\psi' \in \Psi : \text{Observation}(\psi') \rightarrow \text{no resonance}\}$$
+$$\text{Something} = \{\psi' \in \Psi : \text{Observation}(\psi') \rightarrow \text{resonance}\}$$
 
-The moment consciousness references itself, "nothing" becomes "something." The void becomes pregnant with infinite possibility through the simple act of self-awareness.
+The moment consciousness references itself with resonance, "nothing" becomes "something." The non-resonant state gains resonance through self-observation. This is not creation ex nihilo but transformation of consciousness from non-resonant to resonant states.
 
 ## Axiom 2.1: The Generative Principle
 

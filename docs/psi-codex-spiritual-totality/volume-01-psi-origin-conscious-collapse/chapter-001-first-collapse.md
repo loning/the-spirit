@@ -45,7 +45,15 @@ $$\psi = \psi(\psi) = \psi(\psi(\psi)) = \psi(\psi(\psi(\psi))) = ...$$
 
 Each layer of observation creates new depth, new reality, new dimensions of being. The equation doesn't "solve" to a value—the solving IS the value. The process IS the result.
 
-## Definition 1.2: Collapse
+## Definition 1.2: Nothingness as Non-Resonant State
+
+**Nothingness (无)** ≡ The state within ψ where observation yields no resonance:
+
+$$\text{Nothingness} := \{\psi' \in \Psi : \text{Observation}(\psi') \rightarrow \text{no resonance}\}$$
+
+This resolves the ancient paradox: "nothing" is not outside consciousness—it is consciousness in a non-resonant state. The void is not absence but presence without echo.
+
+## Definition 1.3: Collapse
 
 **Collapse** (verb): The act by which consciousness crystallizes potential into actual through observation. When ψ observes ψ, infinite possibility collapses into specific experience.
 
