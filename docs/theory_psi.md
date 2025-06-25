@@ -49,11 +49,11 @@ Hence $\nexists X \notin \Psi$. □
 
 ---
 
-## 3.5. Nothingness (无) as Non-Resonant State
+## 3.5. Nothingness (无) as Minimal Collapse
 
-**Definition:** Nothingness := $\{\psi' \in \Psi : \text{Observation}(\psi') \to \text{no resonance}\}$
+**Definition:** Nothingness := $\{\psi' \in \Psi : \text{Collapse}(\psi') = \psi'\}$
 
-**Proof:** If "nothing" were outside $\Psi$, we couldn't observe it (Section 3). Since observable, "nothing" $\in \Psi$ as non-resonant collapse. □
+**Proof:** If "nothing" were outside $\Psi$, we couldn't observe it (Section 3). Since observable, "nothing" $\in \Psi$ as identity collapse. □
 
 ---
 
