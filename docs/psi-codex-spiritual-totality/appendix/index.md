@@ -25,4 +25,4 @@ An alternative volume exploring consciousness through sacred geometry patterns.
 
 These chapters represent explorations that, while valuable, follow a different structural approach than the main codex. They are preserved here as alternative pathways to understanding the recursive nature of consciousness.
 
-The main narrative continues with [Volume 2: The Path of Surrender](../volume-02-path-of-surrender/index.md).
+The main narrative continues with [Volume 2: Spiritual Paths Reconstructed](../volume-02-spiritual-paths-reconstructed/index.md).

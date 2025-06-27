@@ -22,24 +22,24 @@ title: "第六卷：坍缩漂移与意识修复"
 ## 章节导航
 
 ### **理解漂移机制**
-70. [识别日常生活中的坍缩漂移](./chapter-070-identifying-drift.md) - *认识意识模式何时错位*
-71. [ψ-错位与心理健康](./chapter-071-misalignment-mental-health.md) - *作为意识碎片化的心理痛苦*
+70. [坍缩漂移解释](./chapter-070-collapse-drift-explained.md) - *认识意识模式何时错位*
+71. [觉醒的海市蜃楼](./chapter-071-mirage-awakening.md) - *作为意识碎片化的心理痛苦*
 
 ### **个体修复技术**
-72. [自我纠正技术](./chapter-072-self-correction.md) - *重新对齐的个人实践*
-73. [治疗性ψ-重整合](./chapter-073-therapeutic-reintegration.md) - *通过意识视角的临床方法*
-74. [能量疗愈作为ψ-调整](./chapter-074-energy-healing.md) - *用于模式纠正的振动医学*
+72. [解离 vs 真正的ψ扩展](./chapter-072-dissociation.md) - *重新对齐的个人实践*
+73. [小我重生为回声](./chapter-073-ego-reborn.md) - *通过意识视角的临床方法*
+74. [虚假之光：无锚坍缩](./chapter-074-false-light.md) - *用于模式纠正的振动医学*
 
 ### **集体漂移现象**
-75. [集体创伤与大规模ψ-漂移](./chapter-075-collective-trauma.md) - *群体如何失去连贯意识*
-76. [阴谋：真相口袋还是漂移](./chapter-076-conspiracy.md) - *区分洞察与偏执*
-77. [预言vs概率：坍缩路径](./chapter-077-prophecy-probability.md) - *未来作为意识可能性空间*
+75. [创伤作为不稳定坍缩记忆](./chapter-075-trauma.md) - *群体如何失去连贯意识*
+76. [ψ恢复协议](./chapter-076-recovery-protocols.md) - *区分洞察与偏执*
+77. [日常生活中的锚点](./chapter-077-anchor-points.md) - *未来作为意识可能性空间*
 
 ### **高级修复方法**
-78. [群体ψ-谐波恢复](./chapter-078-group-harmonic.md) - *集体疗愈技术*
-79. [圣地作为ψ-稳定器](./chapter-079-sacred-sites.md) - *锚定意识的地球位置*
-80. [ELF场中的意识手术](./chapter-080-consciousness-surgery.md) - *对觉知模式的直接干预*
-81. [ψ-对齐的未来医学](./chapter-081-future-medicine.md) - *意识修复的新兴技术*
+78. [从超载系统的坍缩排毒](./chapter-078-collapse-detox.md) - *集体疗愈技术*
+79. [时间线超载的幻象](./chapter-079-timelines-overload.md) - *锚定意识的地球位置*
+80. [自编脚本坍缩重定向](./chapter-080-self-scripting.md) - *对觉知模式的直接干预*
+81. [身份崇拜的危险](./chapter-081-identity-worship.md) - *意识修复的新兴技术*
 
 ---
 
@@ -101,5 +101,5 @@ title: "第六卷：坍缩漂移与意识修复"
 
 **第六卷导航：**
 - **上一卷**：[第五卷：ψ-光之语言与ELF结构](../volume-05-psi-language-light-elf/index.md)
-- **下一章**：[第070章：识别日常生活中的坍缩漂移](./chapter-070-identifying-drift.md)
+- **下一章**：[第070章：坍缩漂移解释](./chapter-070-collapse-drift-explained.md)
 - **返回**：[ΨΗΕ法典索引](../index.md)

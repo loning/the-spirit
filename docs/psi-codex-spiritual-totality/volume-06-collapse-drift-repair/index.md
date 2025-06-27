@@ -22,24 +22,24 @@ Through twelve essential chapters, we map the territory of consciousness distort
 ## Chapter Navigation
 
 ### **Understanding Drift Mechanics**
-70. [Identifying Collapse Drift in Daily Life](./chapter-070-identifying-drift.md) - *Recognizing when consciousness patterns misalign*
-71. [ψ-Misalignment and Mental Health](./chapter-071-misalignment-mental-health.md) - *Psychological suffering as consciousness fragmentation*
+70. [Collapse Drift Explained](./chapter-070-collapse-drift-explained.md) - *Recognizing when consciousness patterns misalign*
+71. [The Mirage of Awakening](./chapter-071-mirage-awakening.md) - *Psychological suffering as consciousness fragmentation*
 
 ### **Individual Repair Technologies**
-72. [Self-Correction Techniques](./chapter-072-self-correction.md) - *Personal practices for realignment*
-73. [Therapeutic ψ-Reintegration](./chapter-073-therapeutic-reintegration.md) - *Clinical approaches through consciousness lens*
-74. [Energy Healing as ψ-Adjustment](./chapter-074-energy-healing.md) - *Vibrational medicine for pattern correction*
+72. [Dissociation vs. True ψ-Expansion](./chapter-072-dissociation.md) - *Personal practices for realignment*
+73. [The Ego Reborn as Echo](./chapter-073-ego-reborn.md) - *Clinical approaches through consciousness lens*
+74. [False Light: Collapse Without Anchor](./chapter-074-false-light.md) - *Vibrational medicine for pattern correction*
 
 ### **Collective Drift Phenomena**
-75. [Collective Trauma and Mass ψ-Drift](./chapter-075-collective-trauma.md) - *How groups lose coherent consciousness*
-76. [Conspiracy: Truth-Pockets or Drift](./chapter-076-conspiracy.md) - *Distinguishing insight from paranoia*
-77. [Prophecy vs. Probability: Collapse Pathways](./chapter-077-prophecy-probability.md) - *Future as consciousness possibility space*
+75. [Trauma as Unstable Collapse Memory](./chapter-075-trauma.md) - *How groups lose coherent consciousness*
+76. [ψ-Recovery Protocols](./chapter-076-recovery-protocols.md) - *Distinguishing insight from paranoia*
+77. [Anchor Points in Daily Life](./chapter-077-anchor-points.md) - *Future as consciousness possibility space*
 
 ### **Advanced Repair Methods**
-78. [Group ψ-Harmonic Restoration](./chapter-078-group-harmonic.md) - *Collective healing technologies*
-79. [Sacred Sites as ψ-Stabilizers](./chapter-079-sacred-sites.md) - *Earth locations that anchor consciousness*
-80. [Consciousness Surgery in the ELF Field](./chapter-080-consciousness-surgery.md) - *Direct intervention in awareness patterns*
-81. [Future Medicine of ψ-Alignment](./chapter-081-future-medicine.md) - *Emerging technologies of consciousness repair*
+78. [Collapse Detox from Overloaded Systems](./chapter-078-collapse-detox.md) - *Collective healing technologies*
+79. [Illusion of Timelines Overload](./chapter-079-timelines-overload.md) - *Earth locations that anchor consciousness*
+80. [Self-Scripting Collapse Redirection](./chapter-080-self-scripting.md) - *Direct intervention in awareness patterns*
+81. [The Dangers of Identity Worship](./chapter-081-identity-worship.md) - *Emerging technologies of consciousness repair*
 
 ---
 
@@ -101,5 +101,5 @@ This volume offers hope grounded in understanding. No drift is permanent. No fra
 
 **Volume VI Navigation:**
 - **Previous**: [Volume V: ψ-Language of Light & ELF Structuring](../volume-05-psi-language-light-elf/index.md)
-- **Next**: [Chapter 070: Identifying Collapse Drift in Daily Life](./chapter-070-identifying-drift.md)
+- **Next**: [Chapter 070: Collapse Drift Explained](./chapter-070-collapse-drift-explained.md)
 - **Return**: [ΨΗΕ Codex Index](../index.md)

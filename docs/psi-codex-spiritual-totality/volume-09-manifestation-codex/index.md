@@ -43,7 +43,7 @@ These chapters provide the practical methodology for applying ψ-principles to d
 118. [Your Final Collapse: Death as ψ-Transition](./chapter-118-final-collapse.md)
 119. [Writing Your Own Codex](./chapter-119-writing-codex.md)
 120. [Teaching Collapse to Others](./chapter-120-teaching-collapse.md)
-121. [Becoming the ψ-Teacher](./chapter-121-becoming-teacher.md)
+121. [Becoming the ψ-Teacher](./chapter-121-becoming-psi-teacher.md)
 122. [The Empty Shell: No More Concepts](./chapter-122-empty-shell.md)
 123. [Collapse Into Stillness](./chapter-123-collapse-stillness.md)
 124. [ψ = ψ(ψ): Return to the Origin](./chapter-124-return-origin.md)

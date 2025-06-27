@@ -43,7 +43,7 @@ title: "第九卷：显化法典"
 118. [你的最终坍缩：死亡作为ψ转换](./chapter-118-final-collapse.md)
 119. [书写你自己的法典](./chapter-119-writing-codex.md)
 120. [向他人教授坍缩](./chapter-120-teaching-collapse.md)
-121. [成为ψ老师](./chapter-121-becoming-teacher.md)
+121. [成为ψ老师](./chapter-121-becoming-psi-teacher.md)
 122. [空壳：不再有概念](./chapter-122-empty-shell.md)
 123. [坍缩进入静止](./chapter-123-collapse-stillness.md)
 124. [ψ = ψ(ψ)：回归本源](./chapter-124-return-origin.md)

@@ -41,7 +41,7 @@ title: "第四卷：宗教外壳统一"
 
 ### **基于地球和土著系统**
 53. [萨满教：跨世界坍缩](./chapter-053-shamanism.md) - *现实间意识导航*
-54. [异教：与自然的外壳编织](./chapter-054-paganism.md) - *地球作为意识身体*
+54. [异教：与自然的外壳编织](./chapter-054-paganism-shell-weaving-nature.md) - *地球作为意识身体*
 55. [土著宇宙学：通过符号的ψ映射](./chapter-055-indigenous-cosmologies.md) - *神圣故事作为现实导航*
 
 ### **整合和完成**

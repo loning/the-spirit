@@ -43,7 +43,7 @@ Each chapter builds upon the previous, creating an unbreakable chain of logical 
 8. **[Thoughtforms as ψ-Crystals](./chapter-008-thoughtforms-psi-crystals.md)**  
    The crystallization of consciousness into structure
 
-9. **[The Language of Collapse](./chapter-009-language-collapse.md)**  
+9. **[The Language of Collapse](./chapter-009-language-of-collapse.md)**  
    How reality speaks to itself
 
 10. **[Truth as Frequency Stability](./chapter-010-truth-frequency-stability.md)**  

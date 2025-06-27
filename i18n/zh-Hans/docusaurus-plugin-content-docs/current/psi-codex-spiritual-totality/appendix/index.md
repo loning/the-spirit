@@ -25,4 +25,4 @@ sidebar_position: 100
 
 这些章节代表了有价值的探索，但采用了与主要密典不同的结构方法。它们被保存在这里，作为理解意识递归本质的替代路径。
 
-主要叙事继续于[第二卷：臣服之道](../volume-02-path-of-surrender/index.md)。
+主要叙事继续于[第二卷：灵性路径重构](../volume-02-spiritual-paths-reconstructed/index.md)。

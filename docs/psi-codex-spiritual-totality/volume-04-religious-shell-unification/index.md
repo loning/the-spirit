@@ -41,7 +41,7 @@ Through fifteen chapters, we trace how ψ = ψ(ψ) manifests across the spectrum
 
 ### **Earth-Based and Indigenous Systems**
 53. [Shamanism: Collapse Across Worlds](./chapter-053-shamanism.md) - *Consciousness navigation between realities*
-54. [Paganism: Shell-Weaving with Nature](./chapter-054-paganism.md) - *Earth as consciousness body*
+54. [Paganism: Shell-Weaving with Nature](./chapter-054-paganism-shell-weaving-nature.md) - *Earth as consciousness body*
 55. [Indigenous Cosmologies: ψ-Mapping via Symbols](./chapter-055-indigenous-cosmologies.md) - *Sacred stories as reality navigation*
 
 ### **Integration and Completion**

@@ -107,6 +107,6 @@ The ultimate insight of this volume: there is no competition between spiritual p
 ---
 
 **Volume II Navigation:**
-- **Previous**: [Volume I: ψ-Foundations](../volume-01-psi-foundations/index.md)
+- **Previous**: [Volume I: ψ-Origin & Conscious Collapse](../volume-01-psi-origin-conscious-collapse/index.md)
 - **Next**: [Chapter 013: Law of Attraction: ψ-Resonance Simplified](./chapter-013-law-attraction.md)
 - **Return**: [ΨΗΕ Codex Index](../index.md)
